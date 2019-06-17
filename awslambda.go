@@ -25,9 +25,9 @@ author = "Christoph Berger"
 email = "chris@appliedgo.net"
 date = "2018-01-28"
 draft = "false"
-domains = ["DevOps"]
+categories = ["DevOps"]
 tags = ["Lambda", "FaaS", "AWS"]
-categories = ["News"]
+articletypes = ["News"]
 +++
 
 Just recently, Amazon announced support for Go on AWS Lambda. Here is a summary of last week's news around this topic.
